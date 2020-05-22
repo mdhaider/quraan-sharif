@@ -1,53 +1,628 @@
-{
-    "books":
-    [
-  {
-    "id": 1,
-    "nameEn": "Al-Fatihah"
-  },
-  {
-    "id": 2,
-    "nameEn": "Al-Baqarah"
-  },
-  {
-    "id": 3,
-    "nameEn": "Al-'Imran"
-  },
-  {
-    "id": 4,
-    "nameEn": "An-Nisa'"
-  },
-  {
-    "id": 5,
-    "nameEn": "Al-Ma'idah"
-  },
-  {
-    "id": 6,
-    "nameEn": "Al-An'am"
-  },
-  {
-    "id": 7,
-    "nameEn": "Al-A'raf"
-  },
-  {
-    "id": 8,
-    "nameEn": "Al-Anfal"
-  },
-  {
-    "id": 9,
-    "nameEn": "Al-Bara'at / At-Taubah"
-  },
-  {
-    "id": 10,
-    "nameEn": "Yunus"
-  },
-  {
-    "id": 11,
-    "nameEn": "Hud"
-  },
-  {
-    "id": 12,
-    "nameEn": "Yusuf"
-  }
+[
+	{
+		"Date": "",
+		"Region": "1-May",
+		"Product": "East",
+		"Qty": "Paper",
+		"Cost": "73",
+		"Amt": "12.95",
+		"Tax": "$ 945.35",
+		"Total": "66.17",
+		"": ""
+	},
+	{
+		"Date": "",
+		"Region": "1-May",
+		"Product": "West",
+		"Qty": "Pens",
+		"Cost": "40",
+		"Amt": "2.19",
+		"Tax": "$ 87.60",
+		"Total": "6.13",
+		"": ""
+	},
+	{
+		"Date": "",
+		"Region": "2-May",
+		"Product": "West",
+		"Qty": "Paper",
+		"Cost": "33",
+		"Amt": "12.95",
+		"Tax": "$ 427.35",
+		"Total": "29.91",
+		"": ""
+	},
+	{
+		"Date": "",
+		"Region": "2-May",
+		"Product": "East",
+		"Qty": "Paper",
+		"Cost": "21",
+		"Amt": "12.95",
+		"Tax": "$ 271.95",
+		"Total": "19.04",
+		"": ""
+	},
+	{
+		"Date": "",
+		"Region": "3-May",
+		"Product": "East",
+		"Qty": "Pens",
+		"Cost": "14",
+		"Amt": "2.19",
+		"Tax": "$ 30.66",
+		"Total": "2.15",
+		"": ""
+	},
+	{
+		"Date": "",
+		"Region": "3-May",
+		"Product": "West",
+		"Qty": "Paper",
+		"Cost": "10",
+		"Amt": "12.95",
+		"Tax": "$ 129.50",
+		"Total": "9.07",
+		"": ""
+	},
+	{
+		"Date": "",
+		"Region": "4-May",
+		"Product": "East",
+		"Qty": "Pens",
+		"Cost": "15",
+		"Amt": "2",
+		"Tax": "$ 30.00",
+		"Total": "2.10",
+		"": ""
+	},
+	{
+		"Date": "",
+		"Region": "5-May",
+		"Product": "West",
+		"Qty": "pens",
+		"Cost": "20",
+		"Amt": "5",
+		"Tax": "$ 100.00",
+		"Total": "7.00",
+		"": ""
+	},
+	{
+		"Date": "",
+		"Region": "www.contextures.com",
+		"Product": "",
+		"Qty": "",
+		"Cost": "",
+		"Amt": "",
+		"Tax": "",
+		"Total": "",
+		"": ""
+	},
+	{
+		"Date": "Product Sales",
+		"Region": "",
+		"Product": "",
+		"Qty": "",
+		"Cost": "www.contextures.com ",
+		"Amt": "",
+		"Tax": "",
+		"Total": "",
+		"": ""
+	},
+	{
+		"Date": "",
+		"Region": "",
+		"Product": "",
+		"Qty": "",
+		"Cost": "",
+		"Amt": "",
+		"Tax": "",
+		"Total": "",
+		"": ""
+	},
+	{
+		"Date": "Date",
+		"Region": "Region",
+		"Product": "Product",
+		"Qty": "Qty",
+		"Cost": "Cost",
+		"Amt": "Amt",
+		"Tax": "Tax",
+		"Total": "Total",
+		"": ""
+	},
+	{
+		"Date": "1-May",
+		"Region": "East",
+		"Product": "Paper",
+		"Qty": "73",
+		"Cost": "12.95",
+		"Amt": "945.34999999999991",
+		"Tax": "66.174499999999995",
+		"Total": "1011.5244999999999",
+		"": ""
+	},
+	{
+		"Date": "1-May",
+		"Region": "West",
+		"Product": "Pens",
+		"Qty": "40",
+		"Cost": "2.19",
+		"Amt": "87.6",
+		"Tax": "6.1320000000000006",
+		"Total": "93.731999999999999",
+		"": ""
+	},
+	{
+		"Date": "2-May",
+		"Region": "West",
+		"Product": "Paper",
+		"Qty": "33",
+		"Cost": "12.95",
+		"Amt": "427.34999999999997",
+		"Tax": "29.9145",
+		"Total": "457.26449999999994",
+		"": ""
+	},
+	{
+		"Date": "2-May",
+		"Region": "East",
+		"Product": "Paper",
+		"Qty": "21",
+		"Cost": "12.95",
+		"Amt": "271.95",
+		"Tax": "19.0365",
+		"Total": "290.98649999999998",
+		"": ""
+	},
+	{
+		"Date": "3-May",
+		"Region": "East",
+		"Product": "Pens",
+		"Qty": "14",
+		"Cost": "2.19",
+		"Amt": "30.66",
+		"Tax": "2.1462000000000003",
+		"Total": "32.806200000000004",
+		"": ""
+	},
+	{
+		"Date": "3-May",
+		"Region": "West",
+		"Product": "Paper",
+		"Qty": "10",
+		"Cost": "12.95",
+		"Amt": "129.5",
+		"Tax": "9.0650000000000013",
+		"Total": "138.565",
+		"": ""
+	},
+	{
+		"Date": "4-May",
+		"Region": "East",
+		"Product": "Pens",
+		"Qty": "15",
+		"Cost": "2",
+		"Amt": "30",
+		"Tax": "2.1",
+		"Total": "32.1",
+		"": ""
+	},
+	{
+		"Date": "5-May",
+		"Region": "West",
+		"Product": "pens",
+		"Qty": "20",
+		"Cost": "5",
+		"Amt": "100",
+		"Tax": "7.0000000000000009",
+		"Total": "107",
+		"": ""
+	},
+	{
+		"Date": "Total",
+		"Region": "",
+		"Product": "",
+		"Qty": "",
+		"Cost": "",
+		"Amt": "",
+		"Tax": "",
+		"Total": "2163.98",
+		"": ""
+	},
+	{
+		"Date": "Date",
+		"Region": "Product",
+		"Product": "Qty",
+		"Qty": "Cost",
+		"Cost": "Amt",
+		"Amt": "",
+		"Tax": "Blank Cells",
+		"Total": "",
+		"": ""
+	},
+	{
+		"Date": "1-May",
+		"Region": "Paper",
+		"Product": "73",
+		"Qty": "12.95",
+		"Cost": "945.34999999999991",
+		"Amt": "",
+		"Tax": "1",
+		"Total": "",
+		"": "Downloaded from:"
+	},
+	{
+		"Date": "1-May",
+		"Region": "Pens",
+		"Product": "40",
+		"Qty": "2.19",
+		"Cost": "87.6",
+		"Amt": "",
+		"Tax": "",
+		"Total": "",
+		"": "http://www.contextures.com/xlExcelTable01.html"
+	},
+	{
+		"Date": "2-May",
+		"Region": "Paper",
+		"Product": "33",
+		"Qty": "12.95",
+		"Cost": "427.34999999999997",
+		"Amt": "",
+		"Tax": "",
+		"Total": "",
+		"": ""
+	},
+	{
+		"Date": "2-May",
+		"Region": "Paper",
+		"Product": "21",
+		"Qty": "12.95",
+		"Cost": "271.95",
+		"Amt": "",
+		"Tax": "",
+		"Total": "",
+		"": "www.contextures.com "
+	},
+	{
+		"Date": "3-May",
+		"Region": "",
+		"Product": "14",
+		"Qty": "2.19",
+		"Cost": "30.66",
+		"Amt": "",
+		"Tax": "",
+		"Total": "",
+		"": ""
+	},
+	{
+		"Date": "3-May",
+		"Region": "Paper",
+		"Product": "10",
+		"Qty": "12.95",
+		"Cost": "129.5",
+		"Amt": "",
+		"Tax": "",
+		"Total": "",
+		"": ""
+	},
+	{
+		"Date": "4-May",
+		"Region": "Pens",
+		"Product": "15",
+		"Qty": "2",
+		"Cost": "30",
+		"Amt": "",
+		"Tax": "",
+		"Total": "",
+		"": ""
+	},
+	{
+		"Date": "5-May",
+		"Region": "pens",
+		"Product": "20",
+		"Qty": "5",
+		"Cost": "100",
+		"Amt": "",
+		"Tax": "",
+		"Total": "",
+		"": ""
+	},
+	{
+		"Date": "Product Sales",
+		"Region": "",
+		"Product": "",
+		"Qty": "",
+		"Cost": "www.contextures.com ",
+		"Amt": "",
+		"Tax": "",
+		"Total": "",
+		"": ""
+	},
+	{
+		"Date": "",
+		"Region": "",
+		"Product": "",
+		"Qty": "",
+		"Cost": "",
+		"Amt": "",
+		"Tax": "",
+		"Total": "",
+		"": ""
+	},
+	{
+		"Date": "Date",
+		"Region": "Region",
+		"Product": "Product",
+		"Qty": "Qty",
+		"Cost": "Cost",
+		"Amt": "Amt",
+		"Tax": "Tax",
+		"Total": "Total",
+		"": "Totals less than 75 are highlighted with conditional formatting"
+	},
+	{
+		"Date": "1-May",
+		"Region": "East",
+		"Product": "Paper",
+		"Qty": "73",
+		"Cost": "12.95",
+		"Amt": "945.34999999999991",
+		"Tax": "66.174499999999995",
+		"Total": "1011.5244999999999",
+		"": "You can filter by colour in the Total column"
+	},
+	{
+		"Date": "1-May",
+		"Region": "West",
+		"Product": "Pens",
+		"Qty": "40",
+		"Cost": "2.19",
+		"Amt": "87.6",
+		"Tax": "6.1320000000000006",
+		"Total": "93.731999999999999",
+		"": ""
+	},
+	{
+		"Date": "2-May",
+		"Region": "West",
+		"Product": "Paper",
+		"Qty": "33",
+		"Cost": "12.95",
+		"Amt": "427.34999999999997",
+		"Tax": "29.9145",
+		"Total": "457.26449999999994",
+		"": "Downloaded from:"
+	},
+	{
+		"Date": "2-May",
+		"Region": "East",
+		"Product": "Paper",
+		"Qty": "21",
+		"Cost": "12.95",
+		"Amt": "271.95",
+		"Tax": "19.0365",
+		"Total": "290.98649999999998",
+		"": "http://www.contextures.com/xlExcelTable01.html"
+	},
+	{
+		"Date": "3-May",
+		"Region": "East",
+		"Product": "Pens",
+		"Qty": "14",
+		"Cost": "2.19",
+		"Amt": "30.66",
+		"Tax": "2.1462000000000003",
+		"Total": "32.806200000000004",
+		"": ""
+	},
+	{
+		"Date": "3-May",
+		"Region": "West",
+		"Product": "Paper",
+		"Qty": "10",
+		"Cost": "12.95",
+		"Amt": "129.5",
+		"Tax": "9.0650000000000013",
+		"Total": "138.565",
+		"": ""
+	},
+	{
+		"Date": "4-May",
+		"Region": "East",
+		"Product": "Pens",
+		"Qty": "15",
+		"Cost": "2",
+		"Amt": "30",
+		"Tax": "2.1",
+		"Total": "32.1",
+		"": ""
+	},
+	{
+		"Date": "5-May",
+		"Region": "West",
+		"Product": "pens",
+		"Qty": "20",
+		"Cost": "5",
+		"Amt": "100",
+		"Tax": "7.0000000000000009",
+		"Total": "107",
+		"": ""
+	},
+	{
+		"Date": "",
+		"Region": "Contextures Products",
+		"Product": ""
+	},
+	{
+		"Date": "",
+		"Region": "",
+		"Product": ""
+	},
+	{
+		"Date": "",
+		"Region": "PivotPower Premium Add-in",
+		"Product": "Time-saving tools for pivot table power users"
+	},
+	{
+		"Date": "",
+		"Region": "UserForms for Data Entry ebook Kit",
+		"Product": "Step by step instructions and videos"
+	},
+	{
+		"Date": "",
+		"Region": "Contextures Excel Tools Add-in",
+		"Product": "Make instant backups",
+		"Qty": " sort sheets",
+		"Cost": " and many more tools"
+	},
+	{
+		"Date": "",
+		"Region": "Data Validation Multi-Select Premium Kit",
+		"Product": "Select multiple items from a listbox",
+		"Qty": " to enter in a single cell"
+	},
+	{
+		"Date": "",
+		"Region": "30 Excel Functions in 30 Days eBook Kit",
+		"Product": "Sample workbook and easy to follow user guide for key Excel functions"
+	},
+	{
+		"Date": "",
+		"Region": "",
+		"Product": ""
+	},
+	{
+		"Date": "",
+		"Region": "Contextures Recommends",
+		"Product": ""
+	},
+	{
+		"Date": "",
+		"Region": "",
+		"Product": ""
+	},
+	{
+		"Date": "",
+		"Region": "Jon Peltier's Excel Chart Utilities",
+		"Product": "Create complex charts with just a few clicks"
+	},
+	{
+		"Date": "",
+		"Region": "ExcelUser Dashboards",
+		"Product": "Templates and instructions for impressive dashboards"
+	},
+	{
+		"Date": "",
+		"Region": "Xtreme Pivot Table Course",
+		"Product": "Video training from beginner to advanced topics"
+	},
+	{
+		"Date": "",
+		"Region": "Power Pivot University",
+		"Product": "Online course by Power Pivot expert Rob Collie"
+	},
+	{
+		"Date": "",
+		"Region": "Excel Courses Online",
+		"Product": "Excel training by Mynda Treacy"
+	},
+	{
+		"Date": "",
+		"Region": "Chandoo's Excel VBA School",
+		"Product": "Become awesome in Excel VBA with Chandoo's online training",
+		"Qty": "",
+		"Cost": "",
+		"Amt": "",
+		"Tax": ""
+	},
+	{
+		"Date": "",
+		"Region": "Chandoo's Project Management Templates",
+		"Product": "Save time with Chandoo's templates for project management",
+		"Qty": "",
+		"Cost": "",
+		"Amt": "",
+		"Tax": ""
+	},
+	{
+		"Date": "",
+		"Region": "",
+		"Product": "",
+		"Qty": "",
+		"Cost": "",
+		"Amt": "",
+		"Tax": ""
+	},
+	{
+		"Date": "",
+		"Region": "Contextures Sites & News",
+		"Product": "",
+		"Qty": "",
+		"Cost": "",
+		"Amt": "",
+		"Tax": ""
+	},
+	{
+		"Date": "",
+		"Region": "",
+		"Product": "",
+		"Qty": "",
+		"Cost": "",
+		"Amt": "",
+		"Tax": ""
+	},
+	{
+		"Date": "",
+		"Region": "Contextures Excel Newsletter",
+		"Product": "Weekly Excel tips",
+		"Qty": " tutorials",
+		"Cost": " videos",
+		"Amt": " and news",
+		"Tax": "",
+		"Total": "",
+		"": ""
+	},
+	{
+		"Date": "",
+		"Region": "Contextures Excel Tips Website",
+		"Product": "Hundreds of tutorials",
+		"Qty": " tips and sample files",
+		"Cost": "",
+		"Amt": "",
+		"Tax": "",
+		"Total": ""
+	},
+	{
+		"Date": "",
+		"Region": "Contextures Excel Blog",
+		"Product": "Read the Excel tutorials and share your comments",
+		"Qty": "",
+		"Cost": "",
+		"Amt": "",
+		"Tax": ""
+	},
+	{
+		"Date": "",
+		"Region": "Excel Pivot Tables Blog",
+		"Product": "Pivot table tutorials and tips",
+		"Qty": " with comments and questions",
+		"Cost": "",
+		"Amt": "",
+		"Tax": "",
+		"Total": ""
+	},
+	{
+		"Date": "",
+		"Region": "Debra's Pivot Table Books on Amazon",
+		"Product": "Pivot table books for Excel 2007",
+		"Qty": "",
+		"Cost": "",
+		"Amt": "",
+		"Tax": ""
+	},
+	{
+		"Date": ""
+	}
 ]
-}
