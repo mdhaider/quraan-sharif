@@ -1,0 +1,1142 @@
+[
+ {
+   "id": 1,
+   "nameEn": "Al-Fatihah",
+   "nameEnMeaning": "The Opening",
+   "nameAr": "الفاتحه",
+   "textUrl": "https://github.com/mdhaider/quraan-sharif/blob/surahs/surah-1-text.pdf",
+   "audioUrl": "",
+   "totalAyah": 7,
+   "totalRuku": 1
+ },
+ {
+   "id": 2,
+   "nameEn": "Al-Baqarah",
+   "nameEnMeaning": "The Cow",
+   "nameAr": "البقره",
+   "textUrl": "",
+   "audioUrl": "",
+   "totalAyah": 286,
+   "totalRuku": 40
+ },
+ {
+   "id": 3,
+   "nameEn": "Al-'Imran",
+   "nameEnMeaning": "The Family of Amran",
+   "nameAr": "آل عمران",
+   "textUrl": "",
+   "audioUrl": "",
+   "totalAyah": 200,
+   "totalRuku": 20
+ },
+ {
+   "id": 4,
+   "nameEn": "An-Nisa'",
+   "nameEnMeaning": "The Women",
+   "nameAr": "النساء",
+   "textUrl": "",
+   "audioUrl": "",
+   "totalAyah": 176,
+   "totalRuku": 24
+ },
+ {
+   "id": 5,
+   "nameEn": "Al-Ma'idah",
+   "nameEnMeaning": "The Food",
+   "nameAr": "المائده",
+   "textUrl": "",
+   "audioUrl": "",
+   "totalAyah": 120,
+   "totalRuku": 16
+ },
+ {
+   "id": 6,
+   "nameEn": "Al-An'am",
+   "nameEnMeaning": "The Cattle",
+   "nameAr": "الأنعام",
+   "textUrl": "",
+   "audioUrl": "",
+   "totalAyah": 165,
+   "totalRuku": 20
+ },
+ {
+   "id": 7,
+   "nameEn": "Al-A'raf",
+   "nameEnMeaning": "The Elevated Places",
+   "nameAr": "الأعراف",
+   "textUrl": "",
+   "audioUrl": "",
+   "totalAyah": 206,
+   "totalRuku": 24
+ },
+ {
+   "id": 8,
+   "nameEn": "Al-Anfal",
+   "nameEnMeaning": "Voluntary Gifts",
+   "nameAr": "الأنفال",
+   "textUrl": "",
+   "audioUrl": "",
+   "totalAyah": 75,
+   "totalRuku": 10
+ },
+ {
+   "id": 9,
+   "nameEn": "Al-Bara'at / At-Taubah",
+   "nameEnMeaning": "The Immunity",
+   "nameAr": "التوبه",
+   "textUrl": "",
+   "audioUrl": "",
+   "totalAyah": 129,
+   "totalRuku": 16
+ },
+ {
+   "id": 10,
+   "nameEn": "Yunus",
+   "nameEnMeaning": "Jonah",
+   "nameAr": "يونس",
+   "textUrl": "",
+   "audioUrl": "",
+   "totalAyah": 109,
+   "totalRuku": 11
+ },
+ {
+   "id": 11,
+   "nameEn": "Hud",
+   "nameEnMeaning": "Hud",
+   "nameAr": "هود",
+   "textUrl": "",
+   "audioUrl": "",
+   "totalAyah": 123,
+   "totalRuku": 10
+ },
+ {
+   "id": 12,
+   "nameEn": "Yusuf",
+   "nameEnMeaning": "Joseph",
+   "nameAr": "يوسف",
+   "textUrl": "",
+   "audioUrl": "",
+   "totalAyah": 111,
+   "totalRuku": 12
+ },
+ {
+   "id": 13,
+   "nameEn": "Ar-Ra'd",
+   "nameEnMeaning": "The Thunder",
+   "nameAr": "الرعد",
+   "textUrl": "",
+   "audioUrl": "",
+   "totalAyah": 43,
+   "totalRuku": 6
+ },
+ {
+   "id": 14,
+   "nameEn": "Ibrahim",
+   "nameEnMeaning": "Abraham",
+   "nameAr": "ابراهيم",
+   "textUrl": "",
+   "audioUrl": "",
+   "totalAyah": 52,
+   "totalRuku": 7
+ },
+ {
+   "id": 15,
+   "nameEn": "Al-Hijr",
+   "nameEnMeaning": "The Rock",
+   "nameAr": "الحجر",
+   "textUrl": "",
+   "audioUrl": "",
+   "totalAyah": 99,
+   "totalRuku": 6
+ },
+ {
+   "id": 16,
+   "nameEn": "An-Nahl",
+   "nameEnMeaning": "The Bee",
+   "nameAr": "النخل",
+   "textUrl": "",
+   "audioUrl": "",
+   "totalAyah": 128,
+   "totalRuku": 16
+ },
+ {
+   "id": 17,
+   "nameEn": "Bani Isra'il",
+   "nameEnMeaning": "The Israelites",
+   "nameAr": "الاسراء",
+   "textUrl": "",
+   "audioUrl": "",
+   "totalAyah": 111,
+   "totalRuku": 12
+ },
+ {
+   "id": 18,
+   "nameEn": "Al-Kahf",
+   "nameEnMeaning": "The Cave",
+   "nameAr": "الكهف",
+   "textUrl": "",
+   "audioUrl": "",
+   "totalAyah": 110,
+   "totalRuku": 12
+ },
+ {
+   "id": 19,
+   "nameEn": "Maryam",
+   "nameEnMeaning": "Mary",
+   "nameAr": "مريم",
+   "textUrl": "",
+   "audioUrl": "",
+   "totalAyah": 98,
+   "totalRuku": 6
+ },
+ {
+   "id": 20,
+   "nameEn": "Ta Ha",
+   "nameEnMeaning": "Ta Ha",
+   "nameAr": "طه",
+   "textUrl": "",
+   "audioUrl": "",
+   "totalAyah": 135,
+   "totalRuku": 8
+ },
+ {
+   "id": 21,
+   "nameEn": "Al-Anbiya'",
+   "nameEnMeaning": "The Prophets",
+   "nameAr": "الأنبياء",
+   "textUrl": "",
+   "audioUrl": "",
+   "totalAyah": 112,
+   "totalRuku": 7
+ },
+ {
+   "id": 22,
+   "nameEn": "Al-Hajj",
+   "nameEnMeaning": "The Pilgrimage",
+   "nameAr": "الحج",
+   "textUrl": "",
+   "audioUrl": "",
+   "totalAyah": 78,
+   "totalRuku": 10
+ },
+ {
+   "id": 23,
+   "nameEn": "Al-Mu'minun",
+   "nameEnMeaning": "The Believers",
+   "nameAr": "المؤمونين",
+   "textUrl": "",
+   "audioUrl": "",
+   "totalAyah": 118,
+   "totalRuku": 6
+ },
+ {
+   "id": 24,
+   "nameEn": "An-Nur",
+   "nameEnMeaning": "The Light",
+   "nameAr": "النور",
+   "textUrl": "",
+   "audioUrl": "",
+   "totalAyah": 64,
+   "totalRuku": 9
+ },
+ {
+   "id": 25,
+   "nameEn": "Al-Furqan",
+   "nameEnMeaning": "The Discrimination",
+   "nameAr": "الفرقان",
+   "textUrl": "",
+   "audioUrl": "",
+   "totalAyah": 77,
+   "totalRuku": 6
+ },
+ {
+   "id": 26,
+   "nameEn": "Ash-Shu'ara'",
+   "nameEnMeaning": "The Poets",
+   "nameAr": "الشعراء",
+   "textUrl": "",
+   "audioUrl": "",
+   "totalAyah": 227,
+   "totalRuku": 11
+ },
+ {
+   "id": 27,
+   "nameEn": "An-Naml",
+   "nameEnMeaning": "The Naml",
+   "nameAr": "النمل",
+   "textUrl": "",
+   "audioUrl": "",
+   "totalAyah": 93,
+   "totalRuku": 7
+ },
+ {
+   "id": 28,
+   "nameEn": "Al-Qasas",
+   "nameEnMeaning": "The Narrative",
+   "nameAr": "القصص",
+   "textUrl": "",
+   "audioUrl": "",
+   "totalAyah": 88,
+   "totalRuku": 9
+ },
+ {
+   "id": 29,
+   "nameEn": "Al-'Ankabut",
+   "nameEnMeaning": "The Spider",
+   "nameAr": "العنكبوت",
+   "textUrl": "",
+   "audioUrl": "",
+   "totalAyah": 69,
+   "totalRuku": 7
+ },
+ {
+   "id": 30,
+   "nameEn": "Ar-Rum",
+   "nameEnMeaning": "The Romans",
+   "nameAr": "الروم",
+   "textUrl": "",
+   "audioUrl": "",
+   "totalAyah": 60,
+   "totalRuku": 6
+ },
+ {
+   "id": 31,
+   "nameEn": "Luqman",
+   "nameEnMeaning": "Luqman",
+   "nameAr": "لقمان",
+   "textUrl": "",
+   "audioUrl": "",
+   "totalAyah": 34,
+   "totalRuku": 4
+ },
+ {
+   "id": 32,
+   "nameEn": "As-Sajdah",
+   "nameEnMeaning": "The Adoration",
+   "nameAr": "السجده",
+   "textUrl": "",
+   "audioUrl": "",
+   "totalAyah": 30,
+   "totalRuku": 3
+ },
+ {
+   "id": 33,
+   "nameEn": "Al-Ahzab",
+   "nameEnMeaning": "The Allies",
+   "nameAr": "الأحزاب",
+   "textUrl": "",
+   "audioUrl": "",
+   "totalAyah": 73,
+   "totalRuku": 9
+ },
+ {
+   "id": 34,
+   "nameEn": "Al-Saba'",
+   "nameEnMeaning": "The Saba'",
+   "nameAr": "سبأ",
+   "textUrl": "",
+   "audioUrl": "",
+   "totalAyah": 54,
+   "totalRuku": 6
+ },
+ {
+   "id": 35,
+   "nameEn": "Al-Fatir",
+   "nameEnMeaning": "The Originator",
+   "nameAr": "فاطر",
+   "textUrl": "",
+   "audioUrl": "",
+   "totalAyah": 45,
+   "totalRuku": 5
+ },
+ {
+   "id": 36,
+   "nameEn": "Ya Sin",
+   "nameEnMeaning": "Ya Sin",
+   "nameAr": "يس",
+   "textUrl": "",
+   "audioUrl": "",
+   "totalAyah": 83,
+   "totalRuku": 5
+ },
+ {
+   "id": 37,
+   "nameEn": "As-Saffat",
+   "nameEnMeaning": "Those Ranging in Ranks",
+   "nameAr": "الصافات",
+   "textUrl": "",
+   "audioUrl": "",
+   "totalAyah": 182,
+   "totalRuku": 5
+ },
+ {
+   "id": 38,
+   "nameEn": "Sad",
+   "nameEnMeaning": "Sad",
+   "nameAr": "ص",
+   "textUrl": "",
+   "audioUrl": "",
+   "totalAyah": 88,
+   "totalRuku": 5
+ },
+ {
+   "id": 39,
+   "nameEn": "Az-Zumar",
+   "nameEnMeaning": "The Companies",
+   "nameAr": "الزمر",
+   "textUrl": "",
+   "audioUrl": "",
+   "totalAyah": 75,
+   "totalRuku": 8
+ },
+ {
+   "id": 40,
+   "nameEn": "Al-Mu'min",
+   "nameEnMeaning": "The Believer",
+   "nameAr": "غافر",
+   "textUrl": "",
+   "audioUrl": "",
+   "totalAyah": 85,
+   "totalRuku": 9
+ },
+ {
+   "id": 41,
+   "nameEn": "Ha Mim",
+   "nameEnMeaning": "Ha Mim",
+   "nameAr": "فصلت",
+   "textUrl": "",
+   "audioUrl": "",
+   "totalAyah": 54,
+   "totalRuku": 6
+ },
+ {
+   "id": 42,
+   "nameEn": "Ash-Shura",
+   "nameEnMeaning": "Counsel",
+   "nameAr": "الشورى",
+   "textUrl": "",
+   "audioUrl": "",
+   "totalAyah": 53,
+   "totalRuku": 5
+ },
+ {
+   "id": 43,
+   "nameEn": "Az-Zukhruf",
+   "nameEnMeaning": "Gold",
+   "nameAr": "الزحرف",
+   "textUrl": "",
+   "audioUrl": "",
+   "totalAyah": 89,
+   "totalRuku": 7
+ },
+ {
+   "id": 44,
+   "nameEn": "Ad-Dukhan",
+   "nameEnMeaning": "The Drought",
+   "nameAr": "الدخان",
+   "textUrl": "",
+   "audioUrl": "",
+   "totalAyah": 59,
+   "totalRuku": 3
+ },
+ {
+   "id": 45,
+   "nameEn": "Al-Jathiyah",
+   "nameEnMeaning": "The Kneeling",
+   "nameAr": "الجاثيه",
+   "textUrl": "",
+   "audioUrl": "",
+   "totalAyah": 37,
+   "totalRuku": 4
+ },
+ {
+   "id": 46,
+   "nameEn": "Al-Ahqaf",
+   "nameEnMeaning": "The Sandhills",
+   "nameAr": "الأحقاف",
+   "textUrl": "",
+   "audioUrl": "",
+   "totalAyah": 35,
+   "totalRuku": 4
+ },
+ {
+   "id": 47,
+   "nameEn": "Muhammad",
+   "nameEnMeaning": "Muhammad",
+   "nameAr": "محمد",
+   "textUrl": "",
+   "audioUrl": "",
+   "totalAyah": 38,
+   "totalRuku": 4
+ },
+ {
+   "id": 48,
+   "nameEn": "Al-Fath",
+   "nameEnMeaning": "The Victory",
+   "nameAr": "الفتح",
+   "textUrl": "",
+   "audioUrl": "",
+   "totalAyah": 29,
+   "totalRuku": 4
+ },
+ {
+   "id": 49,
+   "nameEn": "Al-Hujurat",
+   "nameEnMeaning": "The Apartments",
+   "nameAr": "الحجرات",
+   "textUrl": "",
+   "audioUrl": "",
+   "totalAyah": 18,
+   "totalRuku": 2
+ },
+ {
+   "id": 50,
+   "nameEn": "Qaf",
+   "nameEnMeaning": "Qaf",
+   "nameAr": "ق",
+   "textUrl": "",
+   "audioUrl": "",
+   "totalAyah": 45,
+   "totalRuku": 3
+ },
+ {
+   "id": 51,
+   "nameEn": "Ad-Dhariyat",
+   "nameEnMeaning": "The Scatterers",
+   "nameAr": "الذاريات",
+   "textUrl": "",
+   "audioUrl": "",
+   "totalAyah": 60,
+   "totalRuku": 3
+ },
+ {
+   "id": 52,
+   "nameEn": "At-Tur",
+   "nameEnMeaning": "The Mountain",
+   "nameAr": "الطور",
+   "textUrl": "",
+   "audioUrl": "",
+   "totalAyah": 49,
+   "totalRuku": 2
+ },
+ {
+   "id": 53,
+   "nameEn": "An-Najm",
+   "nameEnMeaning": "The Star",
+   "nameAr": "النجم",
+   "textUrl": "",
+   "audioUrl": "",
+   "totalAyah": 62,
+   "totalRuku": 3
+ },
+ {
+   "id": 54,
+   "nameEn": "Al-Qamar",
+   "nameEnMeaning": "The Moon",
+   "nameAr": "القمر",
+   "textUrl": "",
+   "audioUrl": "",
+   "totalAyah": 55,
+   "totalRuku": 3
+ },
+ {
+   "id": 55,
+   "nameEn": "Ar-Rahman",
+   "nameEnMeaning": "The Beneficent",
+   "nameAr": "الرحمن",
+   "textUrl": "",
+   "audioUrl": "",
+   "totalAyah": 78,
+   "totalRuku": 3
+ },
+ {
+   "id": 56,
+   "nameEn": "Al-Waqi'ah",
+   "nameEnMeaning": "The Event",
+   "nameAr": "الواقعه",
+   "textUrl": "",
+   "audioUrl": "",
+   "totalAyah": 96,
+   "totalRuku": 3
+ },
+ {
+   "id": 57,
+   "nameEn": "Al-Hadid",
+   "nameEnMeaning": "Iron",
+   "nameAr": "الحديد",
+   "textUrl": "",
+   "audioUrl": "",
+   "totalAyah": 29,
+   "totalRuku": 4
+ },
+ {
+   "id": 58,
+   "nameEn": "Al-Mujadilah",
+   "nameEnMeaning": "The Pleading Woman",
+   "nameAr": "المجادله",
+   "textUrl": "",
+   "audioUrl": "",
+   "totalAyah": 22,
+   "totalRuku": 3
+ },
+ {
+   "id": 59,
+   "nameEn": "Al-Hashr",
+   "nameEnMeaning": "The Banishment",
+   "nameAr": "الحشر",
+   "textUrl": "",
+   "audioUrl": "",
+   "totalAyah": 24,
+   "totalRuku": 3
+ },
+ {
+   "id": 60,
+   "nameEn": "Al-Mumtahanah",
+   "nameEnMeaning": "The Woman who is Examined",
+   "nameAr": "الممتحنه",
+   "textUrl": "",
+   "audioUrl": "",
+   "totalAyah": 13,
+   "totalRuku": 2
+ },
+ {
+   "id": 61,
+   "nameEn": "As-Saff",
+   "nameEnMeaning": "The Ranks",
+   "nameAr": "الصف",
+   "textUrl": "",
+   "audioUrl": "",
+   "totalAyah": 14,
+   "totalRuku": 2
+ },
+ {
+   "id": 62,
+   "nameEn": "Al-Jumu'ah",
+   "nameEnMeaning": "The Congregation",
+   "nameAr": "الجمعه",
+   "textUrl": "",
+   "audioUrl": "",
+   "totalAyah": 11,
+   "totalRuku": 2
+ },
+ {
+   "id": 63,
+   "nameEn": "Al-Munafiqun",
+   "nameEnMeaning": "The Hypocrites",
+   "nameAr": "المنافقون",
+   "textUrl": "",
+   "audioUrl": "",
+   "totalAyah": 11,
+   "totalRuku": 2
+ },
+ {
+   "id": 64,
+   "nameEn": "At-Taghabun",
+   "nameEnMeaning": "The Manifestation of Losses",
+   "nameAr": "التغابن",
+   "textUrl": "",
+   "audioUrl": "",
+   "totalAyah": 18,
+   "totalRuku": 2
+ },
+ {
+   "id": 65,
+   "nameEn": "At-Talaq",
+   "nameEnMeaning": "Divorce",
+   "nameAr": "الطلاق",
+   "textUrl": "",
+   "audioUrl": "",
+   "totalAyah": 12,
+   "totalRuku": 2
+ },
+ {
+   "id": 66,
+   "nameEn": "At-Tahrim",
+   "nameEnMeaning": "The Prohibition",
+   "nameAr": "التحريم",
+   "textUrl": "",
+   "audioUrl": "",
+   "totalAyah": 12,
+   "totalRuku": 2
+ },
+ {
+   "id": 67,
+   "nameEn": "Al-Mulk",
+   "nameEnMeaning": "The Kingdom",
+   "nameAr": "الملك",
+   "textUrl": "",
+   "audioUrl": "",
+   "totalAyah": 30,
+   "totalRuku": 2
+ },
+ {
+   "id": 68,
+   "nameEn": "Al-Qalam",
+   "nameEnMeaning": "The Pen",
+   "nameAr": "القلم",
+   "textUrl": "",
+   "audioUrl": "",
+   "totalAyah": 52,
+   "totalRuku": 2
+ },
+ {
+   "id": 69,
+   "nameEn": "Al-Haqqah",
+   "nameEnMeaning": "The Sure Truth",
+   "nameAr": "الحاقه",
+   "textUrl": "",
+   "audioUrl": "",
+   "totalAyah": 52,
+   "totalRuku": 2
+ },
+ {
+   "id": 70,
+   "nameEn": "Al-Ma'arij",
+   "nameEnMeaning": "The Ways of Ascent",
+   "nameAr": "المعارج",
+   "textUrl": "",
+   "audioUrl": "",
+   "totalAyah": 44,
+   "totalRuku": 2
+ },
+ {
+   "id": 71,
+   "nameEn": "Nuh",
+   "nameEnMeaning": "Noah",
+   "nameAr": "نوح",
+   "textUrl": "",
+   "audioUrl": "",
+   "totalAyah": 28,
+   "totalRuku": 2
+ },
+ {
+   "id": 72,
+   "nameEn": "Al-Jinn",
+   "nameEnMeaning": "The Jinn",
+   "nameAr": "الجن",
+   "textUrl": "",
+   "audioUrl": "",
+   "totalAyah": 28,
+   "totalRuku": 2
+ },
+ {
+   "id": 73,
+   "nameEn": "Al-Muzzammil",
+   "nameEnMeaning": "The One Covering Himself",
+   "nameAr": "المزمل",
+   "textUrl": "",
+   "audioUrl": "",
+   "totalAyah": 20,
+   "totalRuku": 2
+ },
+ {
+   "id": 74,
+   "nameEn": "Al-Muddaththir",
+   "nameEnMeaning": "The One Wrapping Himself Up",
+   "nameAr": "المدثر",
+   "textUrl": "",
+   "audioUrl": "",
+   "totalAyah": 56,
+   "totalRuku": 2
+ },
+ {
+   "id": 75,
+   "nameEn": "Al-Qiyamah",
+   "nameEnMeaning": "The Resurrection",
+   "nameAr": "القيامه",
+   "textUrl": "",
+   "audioUrl": "",
+   "totalAyah": 40,
+   "totalRuku": 2
+ },
+ {
+   "id": 76,
+   "nameEn": "Al-Insan",
+   "nameEnMeaning": "The Man",
+   "nameAr": "الانسان",
+   "textUrl": "",
+   "audioUrl": "",
+   "totalAyah": 31,
+   "totalRuku": 2
+ },
+ {
+   "id": 77,
+   "nameEn": "Al-Mursalat",
+   "nameEnMeaning": "Those Sent Forth",
+   "nameAr": "المرسلات",
+   "textUrl": "",
+   "audioUrl": "",
+   "totalAyah": 50,
+   "totalRuku": 2
+ },
+ {
+   "id": 78,
+   "nameEn": "An-Naba'",
+   "nameEnMeaning": "The Announcement",
+   "nameAr": "النبأ",
+   "textUrl": "",
+   "audioUrl": "",
+   "totalAyah": 40,
+   "totalRuku": 2
+ },
+ {
+   "id": 79,
+   "nameEn": "An-Nazi'at",
+   "nameEnMeaning": "Those Who Yearn",
+   "nameAr": "النازعات",
+   "textUrl": "",
+   "audioUrl": "",
+   "totalAyah": 46,
+   "totalRuku": 2
+ },
+ {
+   "id": 80,
+   "nameEn": "Abasa",
+   "nameEnMeaning": "He Frowned",
+   "nameAr": "عبس",
+   "textUrl": "",
+   "audioUrl": "",
+   "totalAyah": 42,
+   "totalRuku": 1
+ },
+ {
+   "id": 81,
+   "nameEn": "At-Takwir",
+   "nameEnMeaning": "The Folding Up",
+   "nameAr": "النكوير",
+   "textUrl": "",
+   "audioUrl": "",
+   "totalAyah": 29,
+   "totalRuku": 1
+ },
+ {
+   "id": 82,
+   "nameEn": "Al-Infitar",
+   "nameEnMeaning": "The Cleaving",
+   "nameAr": "الانفطار",
+   "textUrl": "",
+   "audioUrl": "",
+   "totalAyah": 19,
+   "totalRuku": 1
+ },
+ {
+   "id": 83,
+   "nameEn": "At-Tatfif",
+   "nameEnMeaning": "Default in Duty",
+   "nameAr": "المطففين",
+   "textUrl": "",
+   "audioUrl": "",
+   "totalAyah": 36,
+   "totalRuku": 1
+ },
+ {
+   "id": 84,
+   "nameEn": "Al-Inshiqaq",
+   "nameEnMeaning": "The Bursting Asunder",
+   "nameAr": "الأنشقاق",
+   "textUrl": "",
+   "audioUrl": "",
+   "totalAyah": 25,
+   "totalRuku": 1
+ },
+ {
+   "id": 85,
+   "nameEn": "Al-Buruj",
+   "nameEnMeaning": "The Stars",
+   "nameAr": "البروج",
+   "textUrl": "",
+   "audioUrl": "",
+   "totalAyah": 22,
+   "totalRuku": 1
+ },
+ {
+   "id": 86,
+   "nameEn": "At-Tariq",
+   "nameEnMeaning": "The Comer by Night",
+   "nameAr": "الطارق",
+   "textUrl": "",
+   "audioUrl": "",
+   "totalAyah": 17,
+   "totalRuku": 1
+ },
+ {
+   "id": 87,
+   "nameEn": "Al-A'la",
+   "nameEnMeaning": "The Most High",
+   "nameAr": "الأعلى",
+   "textUrl": "",
+   "audioUrl": "",
+   "totalAyah": 19,
+   "totalRuku": 1
+ },
+ {
+   "id": 88,
+   "nameEn": "Al-Ghashiyah",
+   "nameEnMeaning": "The Overwhelming Event",
+   "nameAr": "الغاشيه",
+   "textUrl": "",
+   "audioUrl": "",
+   "totalAyah": 26,
+   "totalRuku": 1
+ },
+ {
+   "id": 89,
+   "nameEn": "Al-Fajr",
+   "nameEnMeaning": "The Daybreak",
+   "nameAr": "الفجر",
+   "textUrl": "",
+   "audioUrl": "",
+   "totalAyah": 30,
+   "totalRuku": 1
+ },
+ {
+   "id": 90,
+   "nameEn": "Al-Balad",
+   "nameEnMeaning": "The City",
+   "nameAr": "البلد",
+   "textUrl": "",
+   "audioUrl": "",
+   "totalAyah": 20,
+   "totalRuku": 1
+ },
+ {
+   "id": 91,
+   "nameEn": "Ash-Shams",
+   "nameEnMeaning": "The Sun",
+   "nameAr": "الشمس",
+   "textUrl": "",
+   "audioUrl": "",
+   "totalAyah": 15,
+   "totalRuku": 1
+ },
+ {
+   "id": 92,
+   "nameEn": "Al-Lail",
+   "nameEnMeaning": "The Night",
+   "nameAr": "الليل",
+   "textUrl": "",
+   "audioUrl": "",
+   "totalAyah": 21,
+   "totalRuku": 1
+ },
+ {
+   "id": 93,
+   "nameEn": "Ad-Duha",
+   "nameEnMeaning": "The Brightness of the Day",
+   "nameAr": "الضحى",
+   "textUrl": "",
+   "audioUrl": "",
+   "totalAyah": 11,
+   "totalRuku": 1
+ },
+ {
+   "id": 94,
+   "nameEn": "Al-Inshirah",
+   "nameEnMeaning": "The Expansion",
+   "nameAr": "الشرح",
+   "textUrl": "",
+   "audioUrl": "",
+   "totalAyah": 8,
+   "totalRuku": 1
+ },
+ {
+   "id": 95,
+   "nameEn": "At-Tin",
+   "nameEnMeaning": "The Fig",
+   "nameAr": "التين",
+   "textUrl": "",
+   "audioUrl": "",
+   "totalAyah": 8,
+   "totalRuku": 1
+ },
+ {
+   "id": 96,
+   "nameEn": "Al-'Alaq",
+   "nameEnMeaning": "The Clot",
+   "nameAr": "العلق",
+   "textUrl": "",
+   "audioUrl": "",
+   "totalAyah": 19,
+   "totalRuku": 1
+ },
+ {
+   "id": 97,
+   "nameEn": "Al-Qadr",
+   "nameEnMeaning": "The Majesty",
+   "nameAr": "القدر",
+   "textUrl": "",
+   "audioUrl": "",
+   "totalAyah": 5,
+   "totalRuku": 1
+ },
+ {
+   "id": 98,
+   "nameEn": "Al-Bayyinah",
+   "nameEnMeaning": "The Clear Evidence",
+   "nameAr": "البينه",
+   "textUrl": "",
+   "audioUrl": "",
+   "totalAyah": 8,
+   "totalRuku": 1
+ },
+ {
+   "id": 99,
+   "nameEn": "Al-Zilzal",
+   "nameEnMeaning": "The Shaking",
+   "nameAr": "الزلزله",
+   "textUrl": "",
+   "audioUrl": "",
+   "totalAyah": 8,
+   "totalRuku": 1
+ },
+ {
+   "id": 100,
+   "nameEn": "Al-'Adiyat",
+   "nameEnMeaning": "The Assaulters",
+   "nameAr": "العاديات",
+   "textUrl": "",
+   "audioUrl": "",
+   "totalAyah": 11,
+   "totalRuku": 1
+ },
+ {
+   "id": 101,
+   "nameEn": "Al-Qari'ah",
+   "nameEnMeaning": "The Calamity",
+   "nameAr": "القارعه",
+   "textUrl": "",
+   "audioUrl": "",
+   "totalAyah": 11,
+   "totalRuku": 1
+ },
+ {
+   "id": 102,
+   "nameEn": "At-Takathur",
+   "nameEnMeaning": "The Abundance of Wealth",
+   "nameAr": "التكاثر",
+   "textUrl": "",
+   "audioUrl": "",
+   "totalAyah": 8,
+   "totalRuku": 1
+ },
+ {
+   "id": 103,
+   "nameEn": "Al-'Asr",
+   "nameEnMeaning": "The Time",
+   "nameAr": "العصر",
+   "textUrl": "",
+   "audioUrl": "",
+   "totalAyah": 3,
+   "totalRuku": 1
+ },
+ {
+   "id": 104,
+   "nameEn": "Al-Humazah",
+   "nameEnMeaning": "The Slanderer",
+   "nameAr": "الهمزه",
+   "textUrl": "",
+   "audioUrl": "",
+   "totalAyah": 9,
+   "totalRuku": 1
+ },
+ {
+   "id": 105,
+   "nameEn": "Al-Fil",
+   "nameEnMeaning": "The Elephant",
+   "nameAr": "الفيل",
+   "textUrl": "",
+   "audioUrl": "",
+   "totalAyah": 5,
+   "totalRuku": 1
+ },
+ {
+   "id": 106,
+   "nameEn": "Al-Quraish",
+   "nameEnMeaning": "The Quraish",
+   "nameAr": "قريش",
+   "textUrl": "",
+   "audioUrl": "",
+   "totalAyah": 4,
+   "totalRuku": 1
+ },
+ {
+   "id": 107,
+   "nameEn": "Al-Ma'un",
+   "nameEnMeaning": "Acts of Kindness",
+   "nameAr": "الماعون",
+   "textUrl": "",
+   "audioUrl": "",
+   "totalAyah": 7,
+   "totalRuku": 1
+ },
+ {
+   "id": 108,
+   "nameEn": "Al-Kauthar",
+   "nameEnMeaning": "The Abundance of Good",
+   "nameAr": "الكوثر",
+   "textUrl": "",
+   "audioUrl": "",
+   "totalAyah": 3,
+   "totalRuku": 1
+ },
+ {
+   "id": 109,
+   "nameEn": "Al-Kafirun",
+   "nameEnMeaning": "The Disbelievers",
+   "nameAr": "الكافرون",
+   "textUrl": "",
+   "audioUrl": "",
+   "totalAyah": 6,
+   "totalRuku": 1
+ },
+ {
+   "id": 110,
+   "nameEn": "An-Nasr",
+   "nameEnMeaning": "The Help",
+   "nameAr": "النصر",
+   "textUrl": "",
+   "audioUrl": "",
+   "totalAyah": 3,
+   "totalRuku": 1
+ },
+ {
+   "id": 111,
+   "nameEn": "Al-Lahab",
+   "nameEnMeaning": "The Flame",
+   "nameAr": "المسد",
+   "textUrl": "",
+   "audioUrl": "",
+   "totalAyah": 5,
+   "totalRuku": 1
+ },
+ {
+   "id": 112,
+   "nameEn": "Al-Ikhlas",
+   "nameEnMeaning": "The Unity",
+   "nameAr": "الاخلاص",
+   "textUrl": "",
+   "audioUrl": "",
+   "totalAyah": 3,
+   "totalRuku": 1
+ },
+ {
+   "id": 113,
+   "nameEn": "Al-Falaq",
+   "nameEnMeaning": "The Dawn",
+   "nameAr": "الفلق",
+   "textUrl": "",
+   "audioUrl": "",
+   "totalAyah": 5,
+   "totalRuku": 1
+ },
+ {
+   "id": 114,
+   "nameEn": "An-Nas",
+   "nameEnMeaning": "The Men",
+   "nameAr": "الناس",
+   "textUrl": "",
+   "audioUrl": "",
+   "totalAyah": 6,
+   "totalRuku": 1
+ }
+]
