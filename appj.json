@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "nameEn": "Al-Fatihah"
+  },
+  {
+    "id": 2,
+    "nameEn": "Al-Baqarah"
+  },
+  {
+    "id": 3,
+    "nameEn": "Al-'Imran"
+  },
+  {
+    "id": 4,
+    "nameEn": "An-Nisa'"
+  },
+  {
+    "id": 5,
+    "nameEn": "Al-Ma'idah"
+  },
+  {
+    "id": 6,
+    "nameEn": "Al-An'am"
+  },
+  {
+    "id": 7,
+    "nameEn": "Al-A'raf"
+  },
+  {
+    "id": 8,
+    "nameEn": "Al-Anfal"
+  },
+  {
+    "id": 9,
+    "nameEn": "Al-Bara'at / At-Taubah"
+  },
+  {
+    "id": 10,
+    "nameEn": "Yunus"
+  },
+  {
+    "id": 11,
+    "nameEn": "Hud"
+  },
+  {
+    "id": 12,
+    "nameEn": "Yusuf"
+  }
+]
