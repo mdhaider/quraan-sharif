@@ -1,0 +1,212 @@
+[
+ {
+   "id": 1,
+   "nameEn": "Alif Lam Meem",
+   "nameAr": "الم",
+   "textUrl": "https://github.com/mdhaider/quraan-sharif/blob/para/para-1-text.pdf",
+   "audioUrl": "https://github.com/mdhaider/quraan-sharif/blob/para/para-1-audio.mp3"
+ },
+ {
+   "id": 2,
+   "nameEn": "Sayaqool",
+   "nameAr": "سَيَقُولُ",
+   "textUrl": "https://github.com/mdhaider/quraan-sharif/blob/para/para-2-text.pdf",
+   "audioUrl": ""
+ },
+ {
+   "id": 3,
+   "nameEn": "Tilkal Rusull",
+   "nameAr": "تِلْكَ الرُّسُلُ",
+   "textUrl": "https://github.com/mdhaider/quraan-sharif/blob/para/para-3-text.pdf",
+   "audioUrl": ""
+ },
+ {
+   "id": 4,
+   "nameEn": "Lan Tana Loo",
+   "nameAr": "لَنْ تَنَالُوا",
+   "textUrl": "https://github.com/mdhaider/quraan-sharif/blob/para/para-4-text.pdf",
+   "audioUrl": ""
+ },
+ {
+   "id": 5,
+   "nameEn": "Wal Mohsanat",
+   "nameAr": "وَالْمُحْصَنَاتُ",
+   "textUrl": "https://github.com/mdhaider/quraan-sharif/blob/para/para-5-text.pdf",
+   "audioUrl": ""
+ },
+ {
+   "id": 6,
+   "nameEn": "La Yuhibbullah",
+   "nameAr": "لَا يُحِبُّ اللَّهُ",
+   "textUrl": "https://github.com/mdhaider/quraan-sharif/blob/para/para-6-text.pdf",
+   "audioUrl": ""
+ },
+ {
+   "id": 7,
+   "nameEn": "Wa Iza Samiu",
+   "nameAr": "وَإِذَا سَمِعُوا",
+   "textUrl": "https://github.com/mdhaider/quraan-sharif/blob/para/para-7-text.pdf",
+   "audioUrl": ""
+ },
+ {
+   "id": 8,
+   "nameEn": "Wa Lau Annana",
+   "nameAr": "وَلَوْ أَنَّنَا",
+   "textUrl": "https://github.com/mdhaider/quraan-sharif/blob/para/para-8-text.pdf",
+   "audioUrl": ""
+ },
+ {
+   "id": 9,
+   "nameEn": "Qalal Malao",
+   "nameAr": "قَالَ الْمَلَأُ",
+   "textUrl": "https://github.com/mdhaider/quraan-sharif/blob/para/para-9-text.pdf",
+   "audioUrl": ""
+ },
+ {
+   "id": 10,
+   "nameEn": "Wa A'lamu",
+   "nameAr": "وَاعْلَمُوا",
+   "textUrl": "https://github.com/mdhaider/quraan-sharif/blob/para/para-10-text.pdf",
+   "audioUrl": ""
+ },
+ {
+   "id": 11,
+   "nameEn": "Yatazeroon",
+   "nameAr": "يَعْتَذِرُونَ",
+   "textUrl": "https://github.com/mdhaider/quraan-sharif/blob/para/para-11-text.pdf",
+   "audioUrl": ""
+ },
+ {
+   "id": 12,
+   "nameEn": "Wa Mamin Da'abat",
+   "nameAr": "وَمَا مِنْ دَابَّةٍ",
+   "textUrl": "https://github.com/mdhaider/quraan-sharif/blob/para/para-12-text.pdf",
+   "audioUrl": ""
+ },
+ {
+   "id": 13,
+   "nameEn": "Wa Ma Ubrioo",
+   "nameAr": "وَمَا أُبَرِّئُ",
+   "textUrl": "https://github.com/mdhaider/quraan-sharif/blob/para/para-13-text.pdf",
+   "audioUrl": ""
+ },
+ {
+   "id": 14,
+   "nameEn": "Rubama",
+   "nameAr": "رُبَمَا",
+   "textUrl": "https://github.com/mdhaider/quraan-sharif/blob/para/para-14-text.pdf",
+   "audioUrl": ""
+ },
+ {
+   "id": 15,
+   "nameEn": "Subhanallazi",
+   "nameAr": "سُبْحَانَ الَّذِي",
+   "textUrl": "https://github.com/mdhaider/quraan-sharif/blob/para/para-15-text.pdf",
+   "audioUrl": ""
+ },
+ {
+   "id": 16,
+   "nameEn": "Qal Alam",
+   "nameAr": "قَالَ أَلَمْ",
+   "textUrl": "https://github.com/mdhaider/quraan-sharif/blob/para/para-16-text.pdf",
+   "audioUrl": ""
+ },
+ {
+   "id": 17,
+   "nameEn": "Aqtarabo",
+   "nameAr": "اقْتَرَبَ",
+   "textUrl": "https://github.com/mdhaider/quraan-sharif/blob/para/para-17-text.pdf",
+   "audioUrl": ""
+ },
+ {
+   "id": 18,
+   "nameEn": "Qadd Aflaha",
+   "nameAr": "قَدْ أَفْلَحَ",
+   "textUrl": "https://github.com/mdhaider/quraan-sharif/blob/para/para-18-text.pdf",
+   "audioUrl": ""
+ },
+ {
+   "id": 19,
+   "nameEn": "Wa Qalallazina",
+   "nameAr": "وَقَالَ الَّذِينَ",
+   "textUrl": "https://github.com/mdhaider/quraan-sharif/blob/para/para-19-text.pdf",
+   "audioUrl": ""
+ },
+ {
+   "id": 20,
+   "nameEn": "A'man Khalaq",
+   "nameAr": "أَمَّنْ خَلَقَ",
+   "textUrl": "https://github.com/mdhaider/quraan-sharif/blob/para/para-20-text.pdf",
+   "audioUrl": ""
+ },
+ {
+   "id": 21,
+   "nameEn": "Utlu Ma Oohi",
+   "nameAr": "اتْلُ مَا أُوحِيَ",
+   "textUrl": "https://github.com/mdhaider/quraan-sharif/blob/para/para-21-text.pdf",
+   "audioUrl": ""
+ },
+ {
+   "id": 22,
+   "nameEn": "Wa Manyaqnut",
+   "nameAr": "وَمَنْ يَقْنُتْ",
+   "textUrl": "https://github.com/mdhaider/quraan-sharif/blob/para/para-22-text.pdf",
+   "audioUrl": ""
+ },
+ {
+   "id": 23,
+   "nameEn": "Wa Mali",
+   "nameAr": "وَمَا لِيَ",
+   "textUrl": "https://github.com/mdhaider/quraan-sharif/blob/para/para-23-text.pdf",
+   "audioUrl": ""
+ },
+ {
+   "id": 24,
+   "nameEn": "Faman Azlam",
+   "nameAr": "فَمَنْ أَظْلَمُ",
+   "textUrl": "https://github.com/mdhaider/quraan-sharif/blob/para/para-24-text.pdf",
+   "audioUrl": ""
+ },
+ {
+   "id": 25,
+   "nameEn": "Elahe Yuruddo",
+   "nameAr": "إِلَيْهِ يُرَدُّ",
+   "textUrl": "https://github.com/mdhaider/quraan-sharif/blob/para/para-25-text.pdf",
+   "audioUrl": ""
+ },
+ {
+   "id": 26,
+   "nameEn": "Ha'a Meem",
+   "nameAr": "حم",
+   "textUrl": "https://github.com/mdhaider/quraan-sharif/blob/para/para-26-text.pdf",
+   "audioUrl": ""
+ },
+ {
+   "id": 27,
+   "nameEn": "Qala Fama Khatbukum",
+   "nameAr": "قَالَ فَمَا خَطْبُكُمْ",
+   "textUrl": "https://github.com/mdhaider/quraan-sharif/blob/para/para-27-text.pdf",
+   "audioUrl": ""
+ },
+ {
+   "id": 28,
+   "nameEn": "Qadd Sami Allah",
+   "nameAr": "قَدْ سَمِعَ اللَّهُ",
+   "textUrl": "https://github.com/mdhaider/quraan-sharif/blob/para/para-28-text.pdf",
+   "audioUrl": ""
+ },
+ {
+   "id": 29,
+   "nameEn": "Tabarakallazi",
+   "nameAr": "تَبَارَكَ الَّذِي",
+   "textUrl": "https://github.com/mdhaider/quraan-sharif/blob/para/para-29-text.pdf",
+   "audioUrl": ""
+ },
+ {
+   "id": 30,
+   "nameEn": "Amma Yatasa'aloon",
+   "nameAr": "عَمَّ يَتَسَاءَلُونَ",
+   "textUrl": "https://github.com/mdhaider/quraan-sharif/blob/para/para-30-text.pdf",
+   "audioUrl": ""
+ }
+]
