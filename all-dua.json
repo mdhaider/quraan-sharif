@@ -1,0 +1,74 @@
+[
+ {
+   "id": 1,
+   "name": "When In Anger",
+   "duaAr": "اَعُوْذُ بِاللهِ مِنَ الشَّيْطَانِ الرَّجِيْمِ",
+   "transLiteration": "A’oozu Bil’laahi Minash Shaitaanir Rajeem",
+   "meaning": "I seek refuge in Al’laah from Shaitaan the cursed",
+   "source": "[Tirmizi Shareef Vol.2 Pg.183]"
+ },
+ {
+   "id": 2,
+   "name": "Before Meal",
+   "duaAr": "بِسْمِ اللهِ الرَّحْمَنِ الرَّحِيْمِ",
+   "transLiteration": "Bismil laahir Rahmaanir Raheem",
+   "meaning": "Al’laah’s Name we begin with, The Compassionate, Most Merciful.",
+   "source": "[Abu Dawood Pg.573]"
+ },
+ {
+   "id": 3,
+   "name": "After Meal",
+   "duaAr": "اَ لْحَمْدُ للهِ الَّذِىْ اَطْعَمَنَا وَسَقَاناَ وَجَعَلَناَ مِنَ الْمُسْلِمِيْنَ",
+   "transLiteration": "Alhumdu lil laahil Lazee At’amana Wa Saqaana Wa Ja’alana Minal Muslimeen",
+   "meaning": "All Praise is due to Al’laah, who has blessed us with food and drink and made us from amongst the Believers (Muslims)",
+   "source": "[Abu Dawood Pg.573]"
+ },
+ {
+   "id": 4,
+   "name": "Dua before entering the mosque",
+   "duaAr": "اللّهُـمَّ افْتَـحْ لي أَبْوابَ رَحْمَتـِك",
+   "transLiteration": "Allaahum-maf-Tahlee Abwaaba Rahmatika",
+   "meaning": "O Allaah, open the doors of Your Mercy for me.",
+   "source": "[Sahi’h Muslim]"
+ },
+ {
+   "id": 5,
+   "name": "When Sneezing",
+   "duaAr": "الْحَمْدُ لِلَّهِ",
+   "transLiteration": "Alhamdulillah",
+   "meaning": "Thanks and all praise be to Allah",
+   "source": "[Bukhari ,Mishkaat Shareef Pg.405]"
+ },
+ {
+   "id": 6,
+   "name": "Who listens to the sneeze",
+   "duaAr": "يَرْحَمُكَ اللَّهُ",
+   "transLiteration": "Yar Hamoo kall Lah",
+   "meaning": "May Allah have mercy on you.",
+   "source": "[Bukhari ,Mishkaat Shareef Pg.405]"
+ },
+ {
+   "id": 7,
+   "name": "When entering home",
+   "duaAr": "بِسْـمِ اللهِ وَلَجْنـا، وَبِسْـمِ اللهِ خَـرَجْنـا، وَعَلـى رَبِّنـا تَوَكّلْـنا",
+   "transLiteration": "Bismillaahi walajnaa, wa bismillaahi kharajnaa, wa ‘alaaRabblnaa tawakkalnaa",
+   "meaning": "In the Name of Allah we enter, in the Name of Allah we leave, and upon our Lord we depend [then say As-Salaamu ‘Alaykum to those present]",
+   "source": "[Abu Dau’d]"
+ },
+ {
+   "id": 8,
+   "name": "When Feeling Stressed",
+   "duaAr": "لآَ اِلَهَ اِلاَّ اللهُ رَبُّ السَّمَاوَاتَ وَاْلاَرْضِ وَرَبُّ الْعَرْشِ الْكَرِيْمِ ط لآَ اِلَهَ اِلاَّ اللهُ الْحَلِيْمُ الْحَكِيْمُ لآَ اِلَهَ اِلاَّ اللهُ رَبُّ الْعَرْشِ الْعَظِيْم\n",
+   "transLiteration": "Laa ilaaha il’lal laahul Haleemul Hakeemu – Laa ilaaha il’lal laahu Rab’bul Arshil Azeem – Laa ilaaha il’lal laahu Rab’bus Samawaati wal Ardi wa Rab’bul Arshil Kareem",
+   "meaning": "There is none worthy of worship except Al’laah, The Fore-bearing, The All Wise. There is none worthy of worship except Al’laah, The Lord of the Exalted Throne. There is none worthy of worship except Al’laah, The Lord of the Skies and The Lord of the Earth and the Lord of the distinguished Throne",
+   "source": "[Tirmidhi Vol.2 Pg. 181]"
+ },
+ {
+   "id": 9,
+   "name": "While Traveling",
+   "duaAr": "سُبْحَنَ الَّذِىْ سَخَّرَلَنَا هَذَا وَ مَا كُنَّا لَهُ مُقْرِنِيْنْ وَ اِنَّا اِلَى رَبِّنَا لَمُنْقَلِبُوْنْ",
+   "transLiteration": "Subhaanal lazee Sakh’khara Lana Haaza Wa Maa Kun’na Lahu Muqrineen. Wa In’na ilaa Rab’bina La Munqaliboon",
+   "meaning": "Glory be to Al’laah who has given us control over this (mode of transport) and without his Grace we would not have been able to control it and undoubtedly we are to return towards our Lord",
+   "source": "[Tirmizi, Abu Dawood]"
+ }
+]
